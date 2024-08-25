@@ -9,7 +9,7 @@ const SearchItem = () => {
                 className="siImg" 
             />
             <div className="siDesc">
-                <h1 className="siTitle">Piazza Luxuary</h1>
+                <h1 className="siTitle">Piazza Luxury</h1>
                 <span className="siDistance">500m from center</span>
                 <span className="siTaxiOp">Free airport taxi</span>
                 <span className="siSubtitle">
